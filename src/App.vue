@@ -211,10 +211,10 @@ onMounted(() => {
         <p>路漫漫其修远兮 ，吾将上下而求索</p>
         <i i-ant-design-environment-outlined ml-1/>
       </div>
-      <!--      <div class="text-white/60" mt-2 f-c-c gap-4>-->
-      <!--        <div>皖 ICP 备 2021010058 号</div>-->
-      <!--        <div>© 2024 小孙同学</div>-->
-      <!--      </div>-->
+      <div class="text-white/60" mt-2 f-c-c gap-4>
+        <div>豫 ICP 备 2022016284 号</div>
+        <div>© 2024 小张同学</div>
+      </div>
     </footer>
   </main>
 
